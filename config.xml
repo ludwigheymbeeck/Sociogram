@@ -69,8 +69,8 @@
         <gap:plugin name="com.phonegap.plugins.barcodescanner" />
     -->
 <gap:plugin name="com.phonegap.plugins.facebookconnect">
-    <param name="APP_ID" value="..." />
-    <param name="APP_NAME" value="..." />
+    <param name="APP_ID" value="145979592089059" />
+    <param name="APP_NAME" value="eyesmartjobs" />
 </gap:plugin>
 
     <!-- Define app icon for each platform. -->
